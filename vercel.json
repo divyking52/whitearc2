@@ -1,0 +1,6 @@
+﻿{
+  "rewrites": [
+    { "source": "/", "destination": "/white-arch-all-pages.html" },
+    { "source": "/(.*)", "destination": "/white-arch-all-pages.html" }
+  ]
+}
